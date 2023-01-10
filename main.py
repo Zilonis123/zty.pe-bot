@@ -10,6 +10,10 @@ import cv2
   
 from PIL import ImageGrab
 
+
+# PATH TO TESSERACT
+tesseract = '<< PATH TO TESSERACT EXE >>'
+
 # clear the console
 os.system("cls")
 
@@ -30,7 +34,7 @@ sleep(1)
 
 def imToString(reg):
         # Path of tesseract executable
-        pytesseract.pytesseract.tesseract_cmd ='../Tesseract-OCR/tesseract.exe'
+        pytesseract.pytesseract.tesseract_cmd = tesseract
         # ImageGrab-To capture the screen image in a loop. 
         # Bbox used to capture a specific area.
         cap = ImageGrab.grab(bbox=reg)
