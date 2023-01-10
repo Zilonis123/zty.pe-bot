@@ -30,7 +30,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <!-- <a href="https://github.com/Zilonis123/zty.pe">
+  <!-- <a href="https://github.com/Zilonis123/zty.pe-bot">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a> -->
 
@@ -39,14 +39,14 @@
   <p align="center">
     This is a bot for the website zty.pe.
     <br />
-    <a href="https://github.com/Zilonis123/zty.pe"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Zilonis123/zty.pe-bot"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <!-- <a href="https://github.com/Zilonis123/zty.pe">View Demo</a> -->
+    <!-- <a href="https://github.com/Zilonis123/zty.pe-bot">View Demo</a> -->
     <!-- · -->
-    <a href="https://github.com/Zilonis123/zty.pe/issues">Report Bug</a>
+    <a href="https://github.com/Zilonis123/zty.pe-bot/issues">Report Bug</a>
     ·
-    <a href="https://github.com/Zilonis123/zty.pe/issues">Request Feature</a>
+    <a href="https://github.com/Zilonis123/zty.pe-bot/issues">Request Feature</a>
   </p>
 </div>
 
@@ -117,7 +117,7 @@ Also [tesseract](https://tesseract-ocr.github.io/tessdoc/Downloads) is also requ
 
 2. Clone the repo
    ```sh
-   git clone https://github.com/Zilonis123/zty.pe.git
+   git clone https://github.com/Zilonis123/zty.pe-bot.git
    ```
 3. Install the required python packages
    ```sh
@@ -140,7 +140,7 @@ Also [tesseract](https://tesseract-ocr.github.io/tessdoc/Downloads) is also requ
 - [ ] Feature 3
     - [ ] Nested Feature
 
-See the [open issues](https://github.com/Zilonis123/zty.pe/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/Zilonis123/zty.pe-bot/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
@@ -178,7 +178,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 karlis_kazaks2009+ztype@gmail.com
 
-Project Link: [https://github.com/Zilonis123/zty.pe](https://github.com/Zilonis123/zty.pe)
+Project Link: [https://github.com/Zilonis123/zty.pe-bot](https://github.com/Zilonis123/zty.pe-bot)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -197,16 +197,16 @@ Project Link: [https://github.com/Zilonis123/zty.pe](https://github.com/Zilonis1
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/Zilonis123/zty.pe.svg?style=for-the-badge
-[contributors-url]: https://github.com/Zilonis123/zty.pe/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/Zilonis123/zty.pe.svg?style=for-the-badge
-[forks-url]: https://github.com/Zilonis123/zty.pe/network/members
-[stars-shield]: https://img.shields.io/github/stars/Zilonis123/zty.pe.svg?style=for-the-badge
-[stars-url]: https://github.com/Zilonis123/zty.pe/stargazers
-[issues-shield]: https://img.shields.io/github/issues/Zilonis123/zty.pe.svg?style=for-the-badge
-[issues-url]: https://github.com/Zilonis123/zty.pe/issues
-[license-shield]: https://img.shields.io/github/license/Zilonis123/zty.pe.svg?style=for-the-badge
-[license-url]: https://github.com/Zilonis123/zty.pe/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/Zilonis123/zty.pe-bot.svg?style=for-the-badge
+[contributors-url]: https://github.com/Zilonis123/zty.pe-bot/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/Zilonis123/zty.pe-bot.svg?style=for-the-badge
+[forks-url]: https://github.com/Zilonis123/zty.pe-bot/network/members
+[stars-shield]: https://img.shields.io/github/stars/Zilonis123/zty.pe-bot.svg?style=for-the-badge
+[stars-url]: https://github.com/Zilonis123/zty.pe-bot/stargazers
+[issues-shield]: https://img.shields.io/github/issues/Zilonis123/zty.pe-bot.svg?style=for-the-badge
+[issues-url]: https://github.com/Zilonis123/zty.pe-bot/issues
+[license-shield]: https://img.shields.io/github/license/Zilonis123/zty.pe-bot.svg?style=for-the-badge
+[license-url]: https://github.com/Zilonis123/zty.pe-bot/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/linkedin_username
 [product-screenshot]: images/screenshot.png
